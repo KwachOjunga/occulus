@@ -1,0 +1,16 @@
+{
+  "name": "occulus",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2"
+  },
+  "dependencies": {
+    "@cornerstonejs/core": "^4.1.2",
+    "@cornerstonejs/tools": "^4.1.2"
+  }
+}
